@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Coal-traders and consumers case humbly offered to the High Court of Parliament, in relation to the orphans of the city of London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33494</idno>
+            <idno type="STC">Wing C4748</idno>
+            <idno type="STC">ESTC R9074</idno>
+            <idno type="EEBO-CITATION">12274586</idno>
+            <idno type="OCLC">ocm 12274586</idno>
+            <idno type="VID">58408</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58408)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 176:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Coal-traders and consumers case humbly offered to the High Court of Parliament, in relation to the orphans of the city of London</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal --  Taxation --  Great Britain.</term>
+               <term>Orphans --  England --  London.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:58408:1"/>
+            <head>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>COAL-TRADERS</hi> and <hi>CONSUMERS CASE,</hi> humbly offered to the High Court of <hi>PARLIA<g ref="char:EOLhyphen"/>MENT,</hi> in Relation to the <hi>ORPHANS</hi> of the <hi>CITY</hi> of <hi>LONDON.</hi>
+            </head>
+            <p>THERE has been ever ſince Queen <hi>Elizabeth</hi>'s Reign paid to Her Succeſſors, or their Aſſigns, Twelve Pence <hi>per</hi> Chaldron at <hi>Newcaſtle,</hi> out of which the Citizens of <hi>London</hi> have, for the Benefit of the Poor of the ſaid City, two hundred Pounds <hi>per Annum.</hi>
+            </p>
+            <p>Next, at <hi>Newcaſtle</hi> there is paid to the Poor and Town-Houſe, and at other Places betwixt <hi>London</hi> and <hi>Newcastle,</hi> for Lights, Buoys and Beacons, in all the Sum of Twelve Pence <hi>per</hi> Chaldron.</p>
+            <p>Next, at <hi>London</hi> is paid to the Building and Finiſhing S. <hi>Paul</hi>'s, 1<hi>s.</hi> 6<hi>d. per</hi> Chaldron.</p>
+            <p>Next, at the ſame Port of <hi>London</hi> is paid 4<hi>d. per</hi> Chaldron, by way of Meetage-Money, out of which 1<hi>d. per</hi> Chaldron goes to the Coal-Meeter, that really meaſures the Coals; but the other 3<hi>d. per</hi> Chaldron, which amounts to (and has ſo done for ſix or ſeven Years paſt) 4000<hi>l. per Annum,</hi> little more or leſs, goes to ſundry Gentlemen called <hi>Maſter-Meeters;</hi> but what Ser<g ref="char:EOLhyphen"/>vice they do for the ſaid 4000<hi>l. per Annum,</hi> more than paying a Clerk, and finding of Vatts to meaſure the Coals with; or by what Authority they receive the ſame, is unknown to ſuch who pay the ſaid Money into the Meeter's-Office.</p>
+            <p>Theſe ſundry Taxes on Coals at all Places amount to 3<hi>s.</hi> 10<hi>d.</hi> on every Chaldron, which falls very heavy on two forts of People; Firſt, on thoſe that relate to Navigation or the Importers of them, for they advance the Money in every Place.</p>
+            <p>Next, on the Conſumers of Coals, who by reaſon of ſuch Tax muſt pay the dearer for them; and they are the ordinary ſort of Tradeſmen, and thoſe who live not in the City, but in the Out Places, and all the Counties both Eaſt and Weſt from <hi>London,</hi> bordering on the River of <hi>Thames,</hi> are the greateſt Conſumers of the ſaid Coals.</p>
+            <p>Yet notwithſtanding there is ſo much as 3<hi>s.</hi> 10<hi>d.</hi> already paid <hi>pro</hi> Coals, the Citizens of <hi>London</hi> Pray, <hi>That a further Duty of</hi> 18<hi>d.</hi> per <hi>Chaldron may be laid on Coals to pay the Orphans Debts,</hi> (which will make in all 5<hi>s.</hi> 4<hi>d.</hi>
+               <hi>per</hi> Chaldron) the ſaid Citizens alledging, <hi>That it was once paid to the City before, and they felt not the Burthen of it:</hi> It would be well if the poor Inhabitants in the Out-Parts, and the great Conſumers of Coals in all other Places could ſay the ſame; or that the great Towns to which the Shipping of the Coal-Trade belongs, <hi>viz. Ipſwich, Albrough, Yarmouth, Scar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ough, Burlington, Whitby, Newcaſtle,</hi> &amp;c. had no Reaſon to addreſs themſelves to the High Court of Parliament, to prevent any further Tax being laid: The Juſt Complaints they have to make are too many to be here inſerted, for the twenty Years laſt paſt; during which Time, or thereabouts, the City of <hi>London</hi> have for their Share had, by way of Impoſt and Meetage, about 800000<hi>l.</hi>
+            </p>
+            <p>However, if the High Court of Parliament ſhall think fit to lay a further Tax on Coals, towards paying the Orphans Debts, the Coal-Traders, and the greateſt Conſumers of Coals do in all Humility Pray, <hi>That a ſmall Sum on every Chaldron be added to the</hi> 4<hi>d.</hi> per <hi>Chaldron already paid for Meetage, as is under-neato propoſed; which will be far eaſier to be paid for ever, than</hi> 18<hi>d.</hi> per <hi>Chaldron for twenty Years; for</hi> 8<hi>d. in that nature will anſwer the ſame End, and pay</hi> 250000<hi>l. of the Debt.</hi>
+            </p>
+            <p>The Orphans of <hi>London</hi> have owing to them 508000<hi>l.</hi> Principal Money; and ſuch who have lent their Money about 100000<hi>l.</hi> As to the Orphans, their Money was compelled out of their Hands into the Chamber of <hi>London;</hi> ſo it is a Debt moſt highly rea<g ref="char:EOLhyphen"/>ſonable to be paid, by ſuch equal Ways and Means as may the leaſt burthen one ſort of Poor to pay the other.</p>
+            <p>But as for the 100000<hi>l.</hi> lent by ſuch who might have choſen whether they would have lent it or not, ſeems not reaſonable to come under equal Conſideration with the Orphans.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>So ſhall only caſt up what the Intereſt of the Orphans Money comes to, for it is to be feared that ſo great a Sum as</cell>
+                     <cell>508000<hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>cannot be raiſed to pay them down; and the Intereſt of the ſame, at 4<hi>l. per Cent. per annum,</hi> comes to</cell>
+                     <cell>20340 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <abbr>lb</abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Firſt, towards Payment of which, the City-Lands may yearly advance</cell>
+                     <cell>4000</cell>
+                  </row>
+                  <row>
+                     <cell>Next, the adding of 8<hi>d. per</hi> Chaldron, <hi>per</hi> way of Meetage, to the 4<hi>d.</hi> already paid, will yearly raiſe, beſides a ſufficient Sum to pay all the Coal-Meeters off, that hold their Places by Lives, even to the full of what they are now worth, and to defray all Charges relating to managing the ſaid Imploy; and alſo to pay every Lord Mayor full as much as ever has been yearly paid by the ſaid Meetage.</cell>
+                     <cell>12000</cell>
+                  </row>
+                  <row>
+                     <cell>Next, the Meetage on all ſort of Grain, Salt, <hi>&amp;c.</hi> imported into <hi>London,</hi> if ſo ſmall a Matter as 1<hi>d. per</hi> Quarter be added to what is already paid, and be appropriated to the Benefit of the Orphans, is hoped, will raiſe, towards a farther ſatisfying <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e ſaid Debt</cell>
+                     <cell>2000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>xts, If the Benefit of Hackney-Coaches be alſo appropriated to the ſaid Uſe, and if the ſame ſhall amount to the Sum of</cell>
+                     <cell>2340</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Then all the above Sums together, will amount unto the Sum of</cell>
+                     <cell role="total">20340</cell>
+                  </row>
+               </table>
+            </p>
+            <p>which 20340<hi>l.</hi> if ſetled by Act of Parliament for ever, will be a ſure Fund for the Orphans from Age to Age, on which the Young Orphans, during their non-age, may ſafely pay thoſe off that are now in want of their Money; and ſo the Chamber of <hi>London</hi> may once more regain that Credit, which on good Grounds it has not had for many Years paſt, and yet never be in their Power to wrong Orphans any more, becauſe a Publick Regiſter may be kept in ſuch Manner and Form, as the Fund can never be exceeded.</p>
+            <p>As to 4000<hi>l.</hi> on City-Lands and 12000<hi>l.</hi> on Coals, if the Parliament think fit to lay it, will be a ſure Fund for 16000<hi>l. per Annum.</hi>
+            </p>
+            <p>And as to the the 2000<hi>l.</hi> on Meetage of Corn and 2340 on Hackney Coaches, if the Parliament do not think fit to lay it, or that if laid, they may not amount to 4340<hi>l. per Annum,</hi> there are many other things, which if put together, may eaſily anſwer in the room thereof.</p>
+            <p>But ſeeing there is already 3<hi>s.</hi> 10<hi>d. per</hi> Chaldron, Taxes on Coals, how ſhall 8<hi>d. per</hi> Chaldron more be added, and not be bur<g ref="char:EOLhyphen"/>themſome to the poor Tradeſmen, <hi>&amp;c.</hi>
+            </p>
+            <p>I anſwer: If the High Court of Parliament ſhall think fit to take 6<hi>d.</hi>
+               <hi>per</hi> Chaldron from the 18<hi>d.</hi> now paid to the Building and Finiſhing S. <hi>Pauls;</hi> and in lue thereof give a longer Time for 12<hi>d.</hi> than the preſent Act has allotted for 18<hi>d.</hi> And alſo a Power to borrow Money on the Credit thereof, S. <hi>Paul</hi>'s will not at all be hindred thereby; And then put 2<hi>d.</hi> more to the Tax paid, ſo ta<g ref="char:EOLhyphen"/>ken off from S. <hi>Pauls,</hi> which makes the 8<hi>d.</hi> above ſpecified, and add them to the Meetage-Money already, and make it in all 12<hi>d. per</hi> Chaldron to the Orphans, as well as 12. <hi>per</hi> Chaldron to S. <hi>Pauls;</hi> then ſtill S. <hi>Pauls</hi> will be built, and the Orphans paid too; and ſo one ſort of Poor will not be burthened to pay the other, any more than 2<hi>d. per</hi> Chaldron more than what is already paid by Coals.</p>
+            <p>May not every Landlord, having the Benefit of a Houſe within the City, and every Tenant the Benefit of a Trade within the City, pay ſome ſmall matter towards the Orphans Debt, as well as ſo many, unconcerned with the City, ſhould pay to it by Coals?</p>
+            <p>Such a Way has been ſometimes mentioned, <hi>viz.</hi> an equal Tax on Landlord and Tenant; but the Citizens will by no means hear of that, alledging, That they had nothing to do with what the Government did twenty or forty Years paſt. If ſo, pray if they that dwell in the City, and are the Free-Men thereof, ſay, 'Tis unreaſonable they ſhould pay the Orphans, how much more un<g ref="char:EOLhyphen"/>reaſonable muſt the Citizens acknowledge it to be, for ſuch to pay them, as never Eat or Drank for the Mony ſo ſpent? yet ſuch muſt pay it, if the Parliament think fit to lay a further Tax on Coals.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
